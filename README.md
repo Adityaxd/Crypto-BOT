@@ -1,14 +1,5 @@
-# binance-tutorials
-Real-Time Candlestick Charts and Crypto Trading Bot using Binance API and Websockets
+This project is a Cryptocurrency trading bot which takes data from Binance API stream and performs RSI-Analysis on the cryptocurrency.
 
-This source code is explained and demonstrated in my YouTube channel:
+This project makes use of technologies like Python, Python WebSockets and Technical Analysis Library (TA-LIB).
 
-https://youtube.com/parttimelarry
-
-Binance API series for the webapp starts here (there are 10 videos):
-
-https://www.youtube.com/watch?v=rvhnz1yBHgQ
-
-If you are only interested in the RSI bot:
-
-https://youtu.be/GdlFhF6gjKo
+Complete project report can be found under the name of "CryptoBOT Report".
